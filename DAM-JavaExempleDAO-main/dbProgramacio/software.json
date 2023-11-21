@@ -1,0 +1,76 @@
+[
+    {
+        "llenguatges": [
+            0,
+            2
+        ],
+        "id": 0,
+        "nom": "Android Studio",
+        "any": 2013
+    },
+    {
+        "llenguatges": [
+            0,
+            1,
+            2
+        ],
+        "id": 1,
+        "nom": "IntelliJ IDEA",
+        "any": 2001
+    },
+    {
+        "llenguatges": [3],
+        "id": 2,
+        "nom": "Visual Studio",
+        "any": 1997
+    },
+    {
+        "llenguatges": [
+            0,
+            1,
+            2
+        ],
+        "id": 3,
+        "nom": "Eclipse IDE",
+        "any": 2001
+    },
+    {
+        "llenguatges": [3],
+        "id": 4,
+        "nom": "Xamarin",
+        "any": 2011
+    },
+    {
+        "llenguatges": [2],
+        "id": 5,
+        "nom": "Angular",
+        "any": 2010
+    },
+    {
+        "llenguatges": [2],
+        "id": 6,
+        "nom": "React",
+        "any": 2013
+    },
+    {
+        "llenguatges": [2],
+        "id": 7,
+        "nom": "Vue.js",
+        "any": 2014
+    },
+    {
+        "llenguatges": [
+            0,
+            1
+        ],
+        "id": 8,
+        "nom": "Spring Boot",
+        "any": 2013
+    },
+    {
+        "llenguatges": [1],
+        "id": 9,
+        "nom": "Django",
+        "any": 2005
+    }
+]

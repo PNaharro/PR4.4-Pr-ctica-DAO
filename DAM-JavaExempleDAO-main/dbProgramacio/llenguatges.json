@@ -1,0 +1,37 @@
+[
+    {
+        "popularitat": 5,
+        "id": 0,
+        "nom": "Java",
+        "any": 1995,
+        "dificultat": "mitja"
+    },
+    {
+        "popularitat": 4,
+        "id": 1,
+        "nom": "Python",
+        "any": 1991,
+        "dificultat": "facil"
+    },
+    {
+        "popularitat": 5,
+        "id": 2,
+        "nom": "JavaScript",
+        "any": 1995,
+        "dificultat": "mitja"
+    },
+    {
+        "popularitat": 3,
+        "id": 3,
+        "nom": "C++",
+        "any": 1983,
+        "dificultat": "difícil"
+    },
+    {
+        "popularitat": 2,
+        "id": 4,
+        "nom": "Swift",
+        "any": 2014,
+        "dificultat": "mitja"
+    }
+]
